@@ -1,0 +1,12 @@
+"Overall"
+"coloration_mean_Manyas",4.08671605700468
+"GNDVI_mean_Manyas",3.84339558573854
+"GRVI_mean_Manyas",6.47934763595206
+"Manyas_HGK_SYM_30m_Resample_2",5.79122807017544
+"ndvi_mean_Manyas",7.03940161705866
+"Planform_curvature_Manyas_2",7.00528326745719
+"saturation_mean_Manyas",3.56728110599078
+"SPI_Manyas_2",1.3
+"TWI_Manyas_2",7.23155390921096
+"Profile_curvature_Manyas_2",0
+"Slope_Manyas2",0
