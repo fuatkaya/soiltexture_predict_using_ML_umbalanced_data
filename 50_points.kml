@@ -1,0 +1,4705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="_0_nokta_texture" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>50_nokta_texture</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_20c94c18_5.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle001">
+		<IconStyle>
+			<color>ffff0000</color>
+			<scale>1.0625</scale>
+			<Icon>
+				<href>Layer0_Symbol_20c94c18_5.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>50_nokta_texture</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>CAYIR K1 Tren yolu kenar?</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>590401.497</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4455835.295</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.06291181550209,40.24809101346642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK ay</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>589961.541</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4457282.692</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.05794283249488,40.26117636357674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>KURU MARJINAL V1</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>592603.557</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4457284.468</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.08900781675837,40.26090416408694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL V11</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>591192.071</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4458161.194</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.07253640231348,40.2689565486823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>ORMAN_TARIM E11</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>587654.207</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4458482.376</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.03097699866707,40.27222789625739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>ZEYTIN SULU MARJINAL E7</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>587485.494</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4457526.36</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.02886241546231,40.26363383436174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2013</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>ZEYTIN M15</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>573062.986</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4460357.115</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.85959100828267,40.29051797166706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL M11 Aycicegi</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>569506.503</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4458469.432</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.81754799787093,40.27381617015926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>MERA V5</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>568735.239</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4449514.143</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.807518254068,40.19320582186459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2017</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK V1</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>570567.261</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4446148.577</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.82867025759037,40.16273472419059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2018</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK Pirinc V1</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>569901.902</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4446795.306</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.82092790179285,40.16861651097105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK V1 PIRINC</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>571008.614</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4445627.384</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.83379510193281,40.15800229994777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2020</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL V3 MISIR</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>567672.474</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4442890.876</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.7943380232046,40.13362534850552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2021</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>CAYIR V11</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>567708.661</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4444020.907</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.79488136992355,40.14380256457791,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2022</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL V11 SOGAN</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>570035.236</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4445557.871</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.82235909945341,40.15745781887279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2023</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL PIRINC</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>571089.663</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4447200.71</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.83492033003889,40.17216888721565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2024</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>CAYIR KOCAGOL GOLYAKA ARASI</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>572186.158</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4447412.012</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.84782060100179,40.17397883355891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2025</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK Ay├ği├ğegi</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>572352.491</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4447969.617</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.84983663186311,40.17898771613451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2026</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL R 28</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>576038.318</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4453747.607</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.89380809843539,40.23071221686875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2027</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL V10</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>577852.094</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4455947.93</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.91539288906992,40.25036673243991,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2028</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL V1 AYCICEGI</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>579517.08</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4459233.8</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.9353751703007,40.27980996394039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2029</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>CAYIR MERA V1</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>579885.469</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4459763.537</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.93977413311913,40.28454680315782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2031</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK V11 AYCICEGI</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>576468.097</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4461823.907</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.89982307179777,40.30342661714101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2032</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL V10 AYCICEGI</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>577222.556</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4458070.467</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.90824726127693,40.26954541430718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2033</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK V10 AYCICEGI</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>580509.216</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4456157.696</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.94665796195399,40.25200501468438,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2034</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK V1 KAVUN BOSTAN</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>583176.076</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4455889.872</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.97797693073642,40.249331687335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2035</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SEYREK BITKI V10</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>583707.519</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4455360.466</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.98415564411188,40.24450978248268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2037</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MARJINAL E7 BUGDAY</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>587210.668</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4457290.776</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.02559879873223,40.26154039562368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2038</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>SULU MUTLAK V10 AYCICEGI</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>581937.501</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4457894.434</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.96367201121576,40.26751117103037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2039</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>MERA V1</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>581854.355</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4458666.395</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.96279287083147,40.27447321606919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2040</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>MERA V1</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>582589.098</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4459697.649</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.97156691760485,40.28369059679304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2041</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>KURU TARIM U6</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>583989.861</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4461584.937</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.98829064392298,40.30055176381745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2045</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak V6 m?s?r</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>591764.792</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4446202.318</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.07756337527385,40.16116994784456,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2046</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>sulu marjinal H_h Domates</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>589987.583</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4443419.217</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.05630912452035,40.13629199819037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2047</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak A7 der4 karpuz</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>585661.205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4442444.145</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.00540255009211,40.12796041960723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2048</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak H_hs Celtik</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>584633.155</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4444199.733</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.99356840638553,40.14387928344671,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2049</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>sulu mutlak A3 Yonca</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>585412.58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4440873.829</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.00227711691312,40.11383994320731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2050</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>sulu mutlak a8  Celtik</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>580809.871</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4442670.759</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.94849858615912,40.13048214090695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2051</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak A4 Yonca</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>583234.176</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4440096.117</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.97661789373132,40.10705244463282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2052</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak A4 Domates</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>585275.988</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4437827.412</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>28.00027252509183,40.08641085477882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2054</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak A4 M?s?r</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>580757.346</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4439818.968</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.9475254856633,40.10479715945893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2056</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak H_Hh M?s?r</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>577593.851</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4442176.334</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.91069599369818,40.12633112779893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2057</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak A4 Der2 Celtik</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>575588.616</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4441886.337</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.88712988600548,40.12390135097276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2058</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak v1 der 10 Aycicegi</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>573680.44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4441288.745</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.86466921724179,40.11868726436505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2059</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu marjinal v11 der2 Tah?l</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>569058.39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4445370.609</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.81086992535127,40.15585173143093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00045">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2060</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>sulu mutlak v6 ay├ği├ğe?i</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>569398.82</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4442406.214</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.81454779605482,40.12911842179964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00046">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2061</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu mutlak V7 der 11 Aycicegi</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>572323.301</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4439531.901</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.8485476031033,40.10297829481618,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00047">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2062</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Cay?r M15 Der3 Mera</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>570993.504</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4438667.201</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.83285208015041,40.09530172147046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00048">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2098</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>├£z├╝m M16 Ba?dan Zeytine Donusmus</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>579827.668</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4438193.432</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.93641820052113,40.09024232324317,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00049">
+			<name>leventbasayigit_mam_ctue</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Creator</td>
+
+<td>leventbasayigit_mam_ctue</td>
+
+</tr>
+
+<tr>
+
+<td>ID</td>
+
+<td>2099</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>aciklama</td>
+
+<td>Sulu Mutlak M15 Aycicegi</td>
+
+</tr>
+
+<tr>
+
+<td>x</td>
+
+<td>577178.447</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>y</td>
+
+<td>4439724.051</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>27.90552801608746,40.10427798304948,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
