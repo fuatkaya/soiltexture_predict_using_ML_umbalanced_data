@@ -5,6 +5,7 @@ My one of the dearest article has been accepted for publication in Geoderma Regi
 And now, Volume 31, December 2022, has been published in the journal with the number e00584.
 If the code is useful, if you integrate or manipulate it in your work, please cite the article at the relevant link.
 https://www.sciencedirect.com/science/article/pii/S2352009422001043
+
 [S2352009422001043.txt](https://github.com/fuatkaya/soiltexture_predict_using_ML_umbalanced_data/files/9815493/S2352009422001043.txt)
 
 Digital mapping for soil texture class prediction in northwestern Türkiye by different machine learning algorithms. https://doi.org/10.1016/j.geodrs.2022.e00584
