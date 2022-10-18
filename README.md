@@ -1,5 +1,6 @@
 # soiltexture_predict_using_ML_umbalanced_data
 The work of creating maps of topsoil texture classes in a digital soil mapping framework using machine learning algorithms in a workspace dominated by Fluvisol and Vertisols.
+
 Dear Community,
 My one of the dearest article has been accepted for publication in Geoderma Regional (Q2-Soil Science, IF:4.21).
 And now, Volume 31, December 2022, has been published in the journal with the number e00584.
