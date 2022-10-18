@@ -3,7 +3,7 @@ The work of creating maps of topsoil texture classes in a digital soil mapping f
 
 Dear Community,
 My one of the dearest article has been accepted for publication in Geoderma Regional (Q2-Soil Science, IF:4.21).
-And now, Volume 31, December 2022, has been published in the journal with the number e00584.
+And now, Volume 31-December 2022, has been published in the journal with the number e00584.
 If the code is useful, if you integrate or manipulate it in your work, please cite the article at the relevant link.
 https://www.sciencedirect.com/science/article/pii/S2352009422001043
 
